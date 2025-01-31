@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5c1c4ec3e5a39e547ab74d59988c0a70
+guid: 185c9b6c9065a0640b12fcd813317e3f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4931439376682611898
-    second: babagi_0
+      213: -3117092953483853266
+    second: pouvrasse_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,19 +97,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WindowsStoreApps
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: babagi_0
+      name: pouvrasse_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2096
-        height: 2756
+        width: 204
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab47a863cfdff6440800000000000000
-      internalID: 4931439376682611898
+      spriteID: e22c8bf497cddb4d0800000000000000
+      internalID: -3117092953483853266
       vertices: []
       indices: 
       edges: []
@@ -160,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      babagi_0: 4931439376682611898
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
